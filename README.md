@@ -2,11 +2,11 @@
 # 
 #### 
 
-### Borys H.
-# Salesforce
-# Node.js
-# Typescript
-# TailwindCSS
+# Borys H.
+### Salesforce
+### Node.js
+### Typescript
+### TailwindCSS
 
 
 
