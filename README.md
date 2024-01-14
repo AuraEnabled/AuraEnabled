@@ -11,8 +11,6 @@
 
 
 - [LinkedIn](https://www.linkedin.com/in/borys-gribanov/)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 <!--
 **AuraEnabled/AuraEnabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
