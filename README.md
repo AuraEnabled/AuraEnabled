@@ -3,8 +3,9 @@
 ### Node.js
 ### Typescript
 ### TailwindCSS
-<br>
-<br>
+<br />
+<br />
+
 - [LinkedIn](https://www.linkedin.com/in/borys-gribanov/)
 - [Telegram](https://t.me/userclassified)
 
