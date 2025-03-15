@@ -1,9 +1,5 @@
 # Borys H.
-### Salesforce
-### Node.js
-### Typescript
-### TailwindCSS
-<br />
+### Typescript | Salesforce
 <br />
 
 - [LinkedIn](https://www.linkedin.com/in/borys-gribanov/)
