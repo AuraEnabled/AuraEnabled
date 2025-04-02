@@ -1,9 +1,5 @@
 # Borys H.
-### Typescript | Salesforce
-<br />
 
-- [LinkedIn](https://www.linkedin.com/in/borys-gribanov/)
-- [Telegram](https://t.me/userclassified)
 
 <!--
 **AuraEnabled/AuraEnabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
