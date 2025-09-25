@@ -1,5 +1,5 @@
 # Borys H.
-Salesforce | Node.js | Go | PHP
+Node.js | Go | PHP | Salesforce
 
 <!--
 **AuraEnabled/AuraEnabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
