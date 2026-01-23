@@ -1,8 +1,6 @@
 # Borys H.
 Node.js | Go | PHP | Salesforce
 
-STM32 amateur
-
 <!--
 **AuraEnabled/AuraEnabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
